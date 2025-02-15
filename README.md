@@ -1,16 +1,47 @@
-# flutter_shop_concept_ui
+# Shoe Store App
 
-A new Flutter project.
+A sample shoe store application built with Flutter, focusing on UI/UX design and animations.
 
-## Getting Started
+## Features
+- Beautiful and responsive UI
+- Dashboard, Profile, Product, and Order pages
+- Smooth animations with `flutter_animate` and `Hero`
+- Navigation using `google_nav_bar`
+- State management with `GetX`
 
-This project is a starting point for a Flutter application.
+## Screenshots
 
-A few resources to get you started if this is your first Flutter project:
+| Dashboard | Product Page | Profile |
+|-----------|------------|---------|
+| ![Dashboard](https://raw.githubusercontent.com/AmirrezaKhezerlou/flutter_shop_ui/refs/heads/main/dashboard.png) | ![Product](https://raw.githubusercontent.com/AmirrezaKhezerlou/flutter_shop_ui/refs/heads/main/product.png) | ![Profile](https://raw.githubusercontent.com/AmirrezaKhezerlou/flutter_shop_ui/refs/heads/main/profile.png) |
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Packages Used
+- `get: ^4.7.2`
+- `google_nav_bar: ^5.0.7`
+- `line_icons: ^2.0.3`
+- `flutter_animate: ^4.5.2`
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Installation
+
+1. Clone the repository:
+   ```sh
+   git clone https://github.com/YOUR_USERNAME/YOUR_REPOSITORY.git
+   ```
+2. Navigate to the project directory:
+   ```sh
+   cd YOUR_REPOSITORY
+   ```
+3. Install dependencies:
+   ```sh
+   flutter pub get
+   ```
+4. Run the app:
+   ```sh
+   flutter run
+   ```
+
+## Contributing
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+
+## License
+This project is licensed under the MIT License.
