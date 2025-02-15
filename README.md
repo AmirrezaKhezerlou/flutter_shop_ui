@@ -25,11 +25,11 @@ A sample shoe store application built with Flutter, focusing on UI/UX design and
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/YOUR_USERNAME/YOUR_REPOSITORY.git
+   git clone https://github.com/AmirrezaKhezerlou/flutter_shop_ui.git
    ```
 2. Navigate to the project directory:
    ```sh
-   cd YOUR_REPOSITORY
+   cd flutter_shop_ui
    ```
 3. Install dependencies:
    ```sh
